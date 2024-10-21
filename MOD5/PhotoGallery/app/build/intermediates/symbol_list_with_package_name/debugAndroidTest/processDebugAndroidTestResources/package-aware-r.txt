@@ -1,3 +1,0 @@
-com.example.photogallery.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
