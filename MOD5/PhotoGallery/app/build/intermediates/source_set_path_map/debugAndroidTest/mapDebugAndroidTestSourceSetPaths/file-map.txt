@@ -1,0 +1,5 @@
+com.example.photogallery.test.app-core-1.6.1-0 C:\Users\gondi\.gradle\caches\transforms-4\fb72ce93daaeaf4e68814adcbfaffd48\transformed\core-1.6.1\res
+com.example.photogallery.test.app-androidTest-1 C:\Users\gondi\AndroidStudioProjects\PhotoGallery\app\build\generated\res\resValues\androidTest\debug
+com.example.photogallery.test.app-mergeDebugAndroidTestResources-2 C:\Users\gondi\AndroidStudioProjects\PhotoGallery\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.photogallery.test.app-mergeDebugAndroidTestResources-3 C:\Users\gondi\AndroidStudioProjects\PhotoGallery\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.photogallery.test.app-debugAndroidTest-4 C:\Users\gondi\AndroidStudioProjects\PhotoGallery\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
